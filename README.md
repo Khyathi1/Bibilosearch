@@ -119,8 +119,8 @@ bibliosearch/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/bibliosearch.git
-cd bibliosearch
+git clone https://github.com/yourusername/Bibliosearch.git
+cd Bibliosearch
 ```
 
 ---
